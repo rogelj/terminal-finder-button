@@ -14,9 +14,9 @@ A macOS app for running a Terminal instance directly from the Finder's current f
 
 ## From source
 
-1. Clone `name` repository:
+1. Clone `terminal-finder-button` repository:
 ```bash
-git clone ___
+git clone https://github.com/rogelj/terminal-finder-button
 ```
 
 2. Follow Dimitrios Zacharopoulos
