@@ -6,7 +6,7 @@ A macOS app for running a Terminal instance directly from the Finder's current f
 
 ## Installation and usage
 
-1. Download and unzip the [latest release of the app]().
+1. Download and unzip the [latest release of the app](https://github.com/rogelj/terminal-finder-button/releases/tag/1.0).
 2. Press the command (⌘) key and drag app to the Finder toolbar
 
 
