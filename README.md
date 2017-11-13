@@ -1,12 +1,12 @@
-# Launch a Terminal shell from macOS Finder
+# Launch a Jupyter server from macOS Finder
 
-A macOS app for running a Terminal instance directly from the Finder's current folder.
+A macOS app for starting up a Jupyter server directly from the Finder's current folder.
 
 **Important:** It is meant to be installed as a Finder toolbar button.
 
 ## Installation and usage
 
-1. Download and unzip the [latest release of the app](https://github.com/rogelj/terminal-finder-button/releases/tag/1.0).
+1. Download and unzip the [latest release of the app]().
 2. Press the command (⌘) key and drag app to the Finder toolbar
 
 
@@ -14,9 +14,9 @@ A macOS app for running a Terminal instance directly from the Finder's current f
 
 ## From source
 
-1. Clone `terminal-finder-button` repository:
+1. Clone `tbd` repository:
 ```bash
-git clone https://github.com/rogelj/terminal-finder-button
+git clone https://github.com/rogelj/
 ```
 
 2. Follow Dimitrios Zacharopoulos
