@@ -1,4 +1,4 @@
-# Launch a Jupyter server from macOS Finder
+# Launch a Terminal window from macOS Finder
 
 A macOS app for starting up a Jupyter server directly from the Finder's current folder.
 
