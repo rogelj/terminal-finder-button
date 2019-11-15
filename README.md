@@ -2,7 +2,7 @@
 
 A macOS app for starting up a Jupyter server directly from the Finder's current folder.
 
-**Important:** It is meant to be installed as a Finder toolbar button.
+**Important:** It is meant to be installed as a Finder toolbar button
 
 ## Installation and usage
 
