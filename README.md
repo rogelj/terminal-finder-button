@@ -6,7 +6,7 @@ A macOS app for starting up a Jupyter server directly from the Finder's current 
 
 ## Installation and usage
 
-1. Download and unzip the [latest release of the app]().
+1. Download and unzip the [latest release of the app](https://github.com/rogelj/terminal-finder-button/releases/tag/1.01).
 2. Press the command (⌘) key and drag app to the Finder toolbar
 
 
